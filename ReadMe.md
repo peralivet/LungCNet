@@ -1,3 +1,9 @@
+A detailed summary of this research is below but this project contains three files that were used for the experiment as well as the dataset.
+
+The dataset for this project can be find here: ![Project Dataset Link](https://www.kaggle.com/datasets/adityamahimkar/iqothnccd-lung-cancer- dataset/data).
+
+While there are three files for the project because three different experiment were run for the project. All three files are included in this project as well as a detailed report on how everything was achieved.
+
 # LungCNet: A CNN for Accurate Lung Cancer Detection from CT Scans
 
 ## Problem Statement
