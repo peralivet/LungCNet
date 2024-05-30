@@ -56,13 +56,13 @@ Extensive data preparation was carried out, involving image resizing, normalizat
 
 The proposed model, LungCNet, features a tailored convolutional neural network (CNN) architecture specifically designed for lung cancer detection and classification from CT scans. The architecture incorporates convolutional, pooling, and fully connected layers, along with regularization techniques such as dropout. This design enables the extraction of hierarchical features from the CT scan images, facilitating precise predictions.
 
-![LungCNet Architecture](path_to_image_1)
+![LungCNet Architecture](https://github.com/peralivet/LungCNet/blob/71d40c801d9415532083ba9e4f7769e26cbd6e57/Screenshot%202024-05-30%20at%201.26.31%20PM.png)
 
 The model development followed the CRISP-DM (Cross-Industry Standard Process for Data Mining) framework, ensuring a systematic approach to data mining and model development. The training and evaluation processes employed various metrics, including accuracy, precision, recall, and F1-score, to comprehensively assess LungCNet's performance.
 
 Notably, LungCNet outperformed other pre-trained models like VGG16, ResNet50, InceptionV3, and MobileNetV2, particularly in handling class imbalance and hyperparameter tuning. This superior performance highlights the efficacy of the proposed model architecture and the tailored approach adopted in this research.
 
-![LungCNet Performance Comparison](path_to_image_2)
+![LungCNet Performance Comparison](https://github.com/peralivet/LungCNet/blob/71d40c801d9415532083ba9e4f7769e26cbd6e57/Screenshot%202024-05-30%20at%202.34.19%20PM.png)
 
 ## Findings
 
