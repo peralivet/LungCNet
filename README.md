@@ -1,1 +1,1 @@
-# LungCNet-Publishing
+# LungCNet
